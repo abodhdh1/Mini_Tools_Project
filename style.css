@@ -5,4 +5,25 @@ header{
     background-color: aliceblue;
     border-width: 10px ;
     border-color: bisque;
+    display: flex;
+    padding: 1.5%;
+    margin-bottom: 2%;
+    
+}
+.card{
+    display: flex;
+    background-color: rgb(25, 123, 209);
+    padding:3%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+    
+}
+.c{
+    background-color: bisque;
+    padding: 10%;
+    margin: 7px;
+    
 }
